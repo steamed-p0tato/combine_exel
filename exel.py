@@ -70,7 +70,7 @@ def main():
     
     with col1:
         st.write("Combine multiple Excel files into one and edit the results.")
-    
+        st.write("by Ariyan for Mam")
     with col2:
         # Theme selector
         theme = st.selectbox(
